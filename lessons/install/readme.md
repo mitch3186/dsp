@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> **Python 3 was installed.**
+> **Python 3 was installed.** >
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> _Python 3.7.6_
+> _Python 3.7.6_ >
 
  
 
